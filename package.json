@@ -1,0 +1,13 @@
+{
+  "name": "tp2",
+  "version": "1.0.0",
+  "description": "TP mini-modules Node.js ES6+",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
